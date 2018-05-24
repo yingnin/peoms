@@ -1,6 +1,5 @@
-#chenwanshan-peoms 陈万山诗歌资料
+#chenwanshan-peoms 
 * The repository save chenwanshan poems
-* 这个repository为了保存陈万山的诗歌
 ![nginx 1.11.6](https://img.shields.io/badge/nginx-1.11.6-brightgreen.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg) [![Build Status](https://travis-ci.org/jwilder/nginx-proxy.svg?branch=master)](https://travis-ci.org/jwilder/nginx-proxy) [![](https://img.shields.io/docker/stars/jwilder/nginx-proxy.svg)](https://hub.docker.com/r/jwilder/nginx-proxy 'DockerHub') [![](https://img.shields.io/docker/pulls/jwilder/nginx-proxy.svg)](https://hub.docker.com/r/jwilder/nginx-proxy 'DockerHub')
 
 
